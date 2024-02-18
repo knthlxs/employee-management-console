@@ -1,0 +1,14 @@
+C:\Users\kenth\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.exe
+C:\Users\kenth\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.deps.json
+C:\Users\kenth\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\kenth\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.dll
+C:\Users\kenth\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.pdb
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.dll
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\refint\EmployeeManagementSystem.dll
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.pdb
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\kenth\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\ref\EmployeeManagementSystem.dll
